@@ -1,0 +1,5 @@
+ELIXIR PROJECT EULER SOLUTIONS -*- mode: org -*-
+
+#+begin_src elixir
+IO.puts "Hello world"
+#+end_src
