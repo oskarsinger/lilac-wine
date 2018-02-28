@@ -1,5 +1,19 @@
 ELIXIR PROJECT EULER SOLUTIONS -*- mode: org -*-
+* Project Euler Solutions in Elixir
 
-#+begin_src elixir
-IO.puts "Hello world"
-#+end_src
+** Problems 1 - 5
+*** Problem 1 
+    #+NAME: pep1
+    #+BEGIN_SRC elixir
+
+    #+END_SRC 
+*** Problem 2
+*** Problem 3
+*** Problem 4
+*** Problem 5
+    
+
+** Problems 6 - 10
+
+** Problems 11 - 15
+
